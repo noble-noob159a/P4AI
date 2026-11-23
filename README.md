@@ -1,4 +1,4 @@
-# Classical Machine Learning vs. Deep Learning on Animals-10
+# Multi-Class Image Classification on the Animals-10 Dataset
 
 This project compares hand-crafted computer vision with modern deep learning on
 **Animals-10**, a dataset of 26,179 web images in 10 animal classes (dog, horse, elephant,
